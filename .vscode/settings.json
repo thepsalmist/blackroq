@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/home/thealchemist/.local/share/virtualenvs/Blackroq-MEjX3mGA/bin/python",
+    "python.formatting.provider": "black"
+}
