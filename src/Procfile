@@ -1,1 +1,1 @@
-web:gunicorn blackroq.wsgi
+web: gunicorn blackroq.wsgi
